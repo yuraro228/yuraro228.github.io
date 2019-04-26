@@ -1,0 +1,15 @@
+﻿.wrapper{
+    padding: 50px 5px;
+}
+
+.storeLink {
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
+}
+
+.storeLink:hover {
+    color: grey;
+    text-decoration: none;
+}
